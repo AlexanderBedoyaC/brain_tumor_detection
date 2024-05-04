@@ -9,3 +9,4 @@ tqdm == 4.66.2
 opencv-python == 4.9.0.80
 kaggle == 1.6.12
 opencv-python == 4.9.0.80
+plotly == 5.22.0
