@@ -1,6 +1,6 @@
 # Proyecto de aplicación de Analítica en Salud
 
-## Integrantes:
+## Integrantes
 
 Ana María Ospina Arredondo
 
@@ -16,3 +16,6 @@ Los tumores cerebrales representan un importante problema de salud a nivel mundi
 
 Debido a la gravedad de esta condición, es importante que el diagnóstico sea lo más rápido y preciso posible, ya que los pacientes con tumores requieren atención inmediata y programación de una biopsia para detectar el tipo y avance del tumor. Así se pueden evitar complicaciones, muertes de pacientes y altos costos para la entidad de salud.
 
+## Fuente
+
+Datos obtenidos de:  https://www.kaggle.com/datasets/luluw8071/brain-tumor-mri-datasets
